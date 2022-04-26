@@ -1,6 +1,6 @@
 # gym_app
 #### Gym App
-poject Files are currently in master branch
+project Files are currently in master branch
 #### App Screenshots
 <kbd>![fit1](https://user-images.githubusercontent.com/90906602/136984387-324c8227-1da7-41d4-9a82-f5e68b8fe57a.PNG)
 </kbd>
